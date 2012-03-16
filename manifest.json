@@ -1,0 +1,14 @@
+{
+  "name": "BookFinder.com search",
+  "version": "1.0",
+  "description": "Adds BookFinder.com search to context menu.",
+  "background_page": "bg.html",
+  "permissions": [
+    "<all_urls>",
+    "contextMenus",
+    "tabs"
+  ],
+  "icons": {
+    "16": "books-brown.png"
+  }
+}
